@@ -1,5 +1,5 @@
 # Sellandbuy
-#### Video Demo:  <https://www.youtube.com/watch?v=bGsGfI5kULM>
+
 #### Description:
 This is a project I have been working on alone for a long time, an advertising portal similar to OLX. Currently, I am working on its reconstruction after completing CS50, paying more attention to the more technical aspects of the work I am currently doing.
 
