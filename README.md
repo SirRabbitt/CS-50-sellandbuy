@@ -17,9 +17,9 @@ Login, registration, adding, removing, and editing advertisements, chat.
 
 Description of the project structure and main directories/files, along with their purpose. For example:
 
-- `/frontent` - directory containing the front-end of the application, built with React.
-- `/back-end` - Node.js/Express server directory that handles the application's API.
-
+- `/client` - directory containing the front-end of the application, built with React.
+- `/server` - Node.js/Express server directory that handles the application's API.
+- `/models` - MongoDB database schema definitions used by the application.
 
 ## Running the Project
 
@@ -34,6 +34,11 @@ Step-by-step instructions on how to run the project locally. This usually includ
 
 The project is written very simply without Redux and MVC, which is its big drawback that I am working on.
 
+## Project Website
+
+For more information and to see the project in action, visit [Sellandbuytests](https://www.sellandbuytests.com/).
+
 ## Contact
 
-[https://www.kamilkrol.com.pl/](https://www.kamilkrol.com.pl/) - my portfolio
+- [My Portfolio](https://www.kamilkrol.com.pl/)
+- [Project Website](https://www.sellandbuytests.com/) - Visit the project website for more details and features.
