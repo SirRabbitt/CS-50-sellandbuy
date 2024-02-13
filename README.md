@@ -17,9 +17,9 @@ Login, registration, adding, removing, and editing advertisements, chat.
 
 Description of the project structure and main directories/files, along with their purpose. For example:
 
-- `/client` - directory containing the front-end of the application, built with React.
-- `/server` - Node.js/Express server directory that handles the application's API.
-- `/models` - MongoDB database schema definitions used by the application.
+- `/frontend` - directory containing the front-end of the application, built with React.
+- `/back-end` - Node.js/Express server directory that handles the application's API.
+
 
 ## Running the Project
 
